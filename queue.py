@@ -1,0 +1,15 @@
+from collections import deque
+name=deque(["saif","karim","rahim","alamin"])
+print(name)
+name.popleft()
+print(name)
+name.popleft()
+print(name)
+name.popleft()
+print(name)
+name.popleft()
+print(name)
+name.popleft()
+print(name)
+if not name:
+    print("queue is empty!!")

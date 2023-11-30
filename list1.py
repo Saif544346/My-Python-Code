@@ -1,0 +1,10 @@
+name=["c","c++","java","python","php","android"]
+print(name)
+print(name[2:])
+print(name[-1])
+print(name+["saif",24])
+number=[3,5,3,7,98,66,45,23]
+number.sort()
+print(number)
+number.reverse()
+print(number)
